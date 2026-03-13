@@ -1,5 +1,7 @@
 # ClawWork
 
+Connect ClawWork to your own OpenClaw and unlock 10x multi-session productivity.
+
 **ClawWork** is an open-source desktop client built on top of [OpenClaw](https://github.com/openclaw/openclaw).
 
 Three-panel layout. Parallel task execution. Every AI artifact automatically versioned in a local Git repo — searchable and traceable.
